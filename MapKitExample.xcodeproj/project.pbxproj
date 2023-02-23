@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		C289334629A0575400A7FC3D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C289334529A0575400A7FC3D /* AppDelegate.swift */; };
 		C289334829A0575400A7FC3D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C289334729A0575400A7FC3D /* SceneDelegate.swift */; };
-		C289334A29A0575400A7FC3D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C289334929A0575400A7FC3D /* ViewController.swift */; };
+		C289334A29A0575400A7FC3D /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C289334929A0575400A7FC3D /* MapViewController.swift */; };
 		C289334D29A0575400A7FC3D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C289334B29A0575400A7FC3D /* Main.storyboard */; };
 		C289334F29A0575600A7FC3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C289334E29A0575600A7FC3D /* Assets.xcassets */; };
 		C289335229A0575600A7FC3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C289335029A0575600A7FC3D /* LaunchScreen.storyboard */; };
@@ -24,7 +24,7 @@
 		C289334229A0575400A7FC3D /* MapKitExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MapKitExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C289334529A0575400A7FC3D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C289334729A0575400A7FC3D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		C289334929A0575400A7FC3D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C289334929A0575400A7FC3D /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		C289334C29A0575400A7FC3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C289334E29A0575600A7FC3D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C289335129A0575600A7FC3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -47,6 +47,32 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C23F4CDA29A818DE001115B0 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				C289336129A05A6600A7FC3D /* ReadLocalJson.swift */,
+				C289335F29A05A2600A7FC3D /* ApiCall.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		C23F4CDB29A818E6001115B0 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				C289335B29A0590300A7FC3D /* MapViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		C23F4CDC29A818F2001115B0 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				C289335929A0586C00A7FC3D /* ParkData.json */,
+				C289335D29A059EA00A7FC3D /* ParkData.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
 		C289333929A0575400A7FC3D = {
 			isa = PBXGroup;
 			children = (
@@ -68,16 +94,14 @@
 			children = (
 				C289334529A0575400A7FC3D /* AppDelegate.swift */,
 				C289334729A0575400A7FC3D /* SceneDelegate.swift */,
-				C289334929A0575400A7FC3D /* ViewController.swift */,
+				C289334929A0575400A7FC3D /* MapViewController.swift */,
 				C289334B29A0575400A7FC3D /* Main.storyboard */,
 				C289334E29A0575600A7FC3D /* Assets.xcassets */,
 				C289335029A0575600A7FC3D /* LaunchScreen.storyboard */,
 				C289335329A0575600A7FC3D /* Info.plist */,
-				C289335929A0586C00A7FC3D /* ParkData.json */,
-				C289335D29A059EA00A7FC3D /* ParkData.swift */,
-				C289335B29A0590300A7FC3D /* MapViewModel.swift */,
-				C289336129A05A6600A7FC3D /* ReadLocalJson.swift */,
-				C289335F29A05A2600A7FC3D /* ApiCall.swift */,
+				C23F4CDC29A818F2001115B0 /* Data */,
+				C23F4CDB29A818E6001115B0 /* ViewModel */,
+				C23F4CDA29A818DE001115B0 /* Utils */,
 			);
 			path = MapKitExample;
 			sourceTree = "<group>";
@@ -154,7 +178,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C289334A29A0575400A7FC3D /* ViewController.swift in Sources */,
+				C289334A29A0575400A7FC3D /* MapViewController.swift in Sources */,
 				C289334629A0575400A7FC3D /* AppDelegate.swift in Sources */,
 				C289335E29A059EA00A7FC3D /* ParkData.swift in Sources */,
 				C289336229A05A6600A7FC3D /* ReadLocalJson.swift in Sources */,
