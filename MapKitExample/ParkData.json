@@ -1,0 +1,6889 @@
+{
+  "data": {
+    "getParks": {
+      "facilities": [
+        {
+          "ID": 107,
+          "address": "1017 Tamer Lane",
+          "amenities": [
+            26,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.813430390000065",
+            "-76.22047390999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Horseshoe Pit",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Queen City Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 66,
+          "address": "924 Parkland Lane",
+          "amenities": [
+            4,
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJpRrnkd29uokRpQDFkzSeeTs",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.806956840000055",
+            "-76.18617932999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Cedar Hill Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 145,
+          "address": "2441 N. Landing Road",
+          "amenities": [
+            37,
+            66
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.747369580000054",
+            "-76.05448732999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Open Space Preservation Area",
+            "Trail-Soft"
+          ],
+          "notes": null,
+          "title": "Buffington/Whitehurst Parcel",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 77,
+          "address": "1520 Level Green Blvd",
+          "amenities": [
+            4,
+            44,
+            57,
+            65
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJ943aA7-9uokR1zl0DLwTDHk",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.80658594000005",
+            "-76.20421451999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Playground",
+            "Softball/Baseball Field",
+            "Trail-Paved"
+          ],
+          "notes": null,
+          "title": "Level Green Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 217,
+          "address": "216 Gatewood Avenue",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/217/attachments/22"
+          ],
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.83529760000005",
+            "-76.04793719999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Gatewood Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 118,
+          "address": "2551 Falcon Crescent",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.88836621000007",
+            "-76.05884123999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Broad Bay Estates Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 225,
+          "address": "2272 Old Pungo Ferry Road",
+          "amenities": [
+            8,
+            10,
+            18
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "7:30 am - (Posted Closing Time)",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.61792600000007",
+            "-76.04695599999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Boat Launch",
+            "Canoe/Kayak Launch",
+            "Fishing Area"
+          ],
+          "notes": "If the main parking lot for the Pungo Ferry Boat Launch is full, please park in designated areas only. Munden Point Park Boat Launch is also a free launch, onto the same waterway.",
+          "title": "Pungo Ferry Landing Park",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/city-parks/Pages/pungo-ferry.aspx",
+          "zip": "23456"
+        },
+        {
+          "ID": 148,
+          "address": "1585 Campbells Landing Road",
+          "amenities": [
+            44,
+            57,
+            61
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": true,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.60917000000006",
+            "-76.01123999999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Playground",
+            "Softball/Baseball Field",
+            "Tennis Court"
+          ],
+          "notes": null,
+          "title": "Campbells Landing Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23457"
+        },
+        {
+          "ID": 196,
+          "address": "Princess Anne Road",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.75011931000006",
+            "-76.01447710999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Three Oaks Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 52,
+          "address": "1201 Old Club House Road",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.80178587000006",
+            "-76.07645702999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Scarborough Square North Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23453"
+        },
+        {
+          "ID": 117,
+          "address": "3500 Kings Grant Road",
+          "amenities": [
+            56
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.86223425000003",
+            "-76.09268479999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Soccer/Multi-Purpose Field"
+          ],
+          "notes": null,
+          "title": "Brill Field Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 181,
+          "address": "1901 Piney Woods Lane",
+          "amenities": [
+            4,
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.773109900000065",
+            "-76.03347678999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Pine Ridge Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 93,
+          "address": "4629 Berrywood Drive",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/93/attachments/13"
+          ],
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.79953978000003",
+            "-76.13646080999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Bellamy Woods Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 7,
+          "address": "5610 Haden Road",
+          "amenities": [
+            18,
+            43,
+            44,
+            57
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJTTDgvwKUuokRP3jhoDYfeqg",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.901155490000065",
+            "-76.17153293999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Fishing Area",
+            "Picnic Shelter",
+            "Playground",
+            "Softball/Baseball Field"
+          ],
+          "notes": null,
+          "title": "Diamond Springs Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23455"
+        },
+        {
+          "ID": 90,
+          "address": "5709 Providence Road",
+          "amenities": [
+            16,
+            26,
+            42,
+            43,
+            44,
+            54,
+            57,
+            62,
+            64,
+            66,
+            70
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJkcON-Oi9uokRYhFigfQHyTQ",
+          "hours": "7:30 am - (Posted Closing Time)",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.81094912000003",
+            "-76.19272516999996"
+          ],
+          "isRental": true,
+          "mappedAmenities": [
+            "Dog Park",
+            "Horseshoe Pit",
+            "Pickleball Court",
+            "Picnic Shelter",
+            "Playground",
+            "Skate Park",
+            "Softball/Baseball Field",
+            "Tennis Court - Indoor",
+            "Therapeutic Cradle Swing Seats",
+            "Trail-Soft",
+            "Volleyball Area - Sand"
+          ],
+          "notes": null,
+          "title": "Woodstock Park",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/city-parks/Pages/woodstock-park.aspx",
+          "zip": "23464"
+        },
+        {
+          "ID": 10,
+          "address": "5564 Lawson Hall Road",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": true,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.87830740000004",
+            "-76.17539242999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Lawson Hall Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23455"
+        },
+        {
+          "ID": 149,
+          "address": "1201 Hubbell Drive",
+          "amenities": [
+            43
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJa4ayy5PBuokRMRrOz0w6w5s",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": true,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.78211571000003",
+            "-76.00749508999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter"
+          ],
+          "notes": null,
+          "title": "Dunwoody Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 200,
+          "address": "3427 Clubhouse Road",
+          "amenities": [
+            44,
+            64
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/200/attachments/16"
+          ],
+          "googlePlacesId": null,
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.82353832000007",
+            "-76.09140327999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Bow Creek Neighborhood Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 2,
+          "address": "4337 Country Club Circle",
+          "amenities": [
+            37
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.893077050000045",
+            "-76.11227498999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Open Space Preservation Area"
+          ],
+          "notes": null,
+          "title": "Adam Thoroughgood Property",
+          "type": "Park",
+          "url": "http://www.museumsvb.org/museums/pages/adam-thoroughgood-house.aspx",
+          "zip": "23455"
+        },
+        {
+          "ID": 42,
+          "address": "Norfolk Avenue",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.83809960000008",
+            "-75.98426274999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Norfolk Avenue Trail",
+          "type": "Park",
+          "url": null,
+          "zip": "23451"
+        },
+        {
+          "ID": 35,
+          "address": "2nd Street & Boardwalk",
+          "amenities": [
+            6,
+            44,
+            50
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.83056600000003",
+            "-75.96912599999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Beach Access",
+            "Playground",
+            "Restroom"
+          ],
+          "notes": null,
+          "title": "Grommet Island Park-Accessible Park",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/city-parks/Pages/grommet-island.aspx",
+          "zip": "23451"
+        },
+        {
+          "ID": 213,
+          "address": "205 Dillon Drive",
+          "amenities": [
+            44,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.834718370000076",
+            "-76.08728702999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Plaza Methodist Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 166,
+          "address": "1952 Rossini Drive",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.771783070000026",
+            "-76.00464407999993"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Malbon Acres Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 170,
+          "address": "632 Firefall Drive",
+          "amenities": [
+            43,
+            44,
+            50,
+            56,
+            57
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJzS6VEDnCuokRx0uMWrT2yCo",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.77549988000004",
+            "-75.97270472999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground",
+            "Restroom",
+            "Soccer/Multi-Purpose Field",
+            "Softball/Baseball Field"
+          ],
+          "notes": null,
+          "title": "Ocean Lakes Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 1,
+          "address": "Rookery Way",
+          "amenities": [
+            37
+          ],
+          "attachments": null,
+          "googlePlacesId": "EjxBZXJpZXMgb24gdGhlIEJheSBQYXJrLCBSb29rZXJ5IFdheSwgVmlyZ2luaWEgQmVhY2gsIFZBLCBVU0EiLiosChQKEgmRLTaFZpO6iRElMOVqKAoVLxIUChIJR_j8bmaTuokRSb7ovKyHeUM",
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.91314200000005",
+            "-76.11343699999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Open Space Preservation Area"
+          ],
+          "notes": null,
+          "title": "Aeries on the Bay Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23455"
+        },
+        {
+          "ID": 72,
+          "address": "1053 Kinderly Lane",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.76480969000005",
+            "-76.17969472999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Charlestown Lakes South Park West",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 6,
+          "address": "1100 Fallbrook Bend",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJY806yS2UuokRUwU45NdqbHY",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.87279537000006",
+            "-76.16916784999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Cypress Point North Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23455"
+        },
+        {
+          "ID": 227,
+          "address": "141 S Birdneck Rd",
+          "amenities": [
+            0,
+            12,
+            14,
+            17,
+            25,
+            27,
+            28,
+            31,
+            34,
+            49,
+            69,
+            71
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJsVWn0SXquokRsp11lcpm9ko",
+          "hours": "M,W,F: 8:30am - 8pm; T & TH: 6:30am - 8pm; Saturday: 9am -5pm; Sunday: 11am-5pm",
+          "isAdopted": true,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.835846710000055",
+            "-75.99942926999995"
+          ],
+          "isRental": true,
+          "mappedAmenities": [
+            "ADA Pool Lift",
+            "Cardiovascular Equipment",
+            "Climbing/Traversing Wall",
+            "Family Changing Rooms",
+            "Gymnasiums",
+            "Indoor Play Structure",
+            "Indoor Swimming Pool",
+            "Locker Room/Showers",
+            "Meeting Rooms",
+            "Racquetball Courts",
+            "Vending Machines",
+            "Weight Room"
+          ],
+          "notes": "The Joseph V. Grimstead, Sr. Seatack Community Recreation Center is a 22,000 square foot multi-faceted recreational space within walking distance of the neighborhoods of Lands End Condominium, Salt Marsh Point, Seatack, and Shadowlawn.",
+          "title": "Seatack Recreation Center",
+          "type": "RecCen",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/recreation-centers/Pages/seatack.aspx",
+          "zip": "23451"
+        },
+        {
+          "ID": 92,
+          "address": "375 Gainsborough Road",
+          "amenities": [
+            10,
+            18,
+            65
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.826235000000054",
+            "-76.17947799999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Canoe/Kayak Launch",
+            "Fishing Area",
+            "Trail-Paved"
+          ],
+          "notes": null,
+          "title": "Carolanne Farms Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23462"
+        },
+        {
+          "ID": 82,
+          "address": "1841 Gravenhurst Drive",
+          "amenities": [
+            4,
+            43,
+            44
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/82/attachments/32"
+          ],
+          "googlePlacesId": "ChIJBdzDbLu_uokR1AbHilnCUN8",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.77971640000004",
+            "-76.15535639999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Rosemont Forest West Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 160,
+          "address": "2701 Atwoodtown Road",
+          "amenities": [
+            43,
+            44,
+            61
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.74276198000007",
+            "-75.98400065999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground",
+            "Tennis Court"
+          ],
+          "notes": null,
+          "title": "Lago Mar Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 216,
+          "address": "929 Pocasset Court",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJZ-3ouGvBuokRhF8EUjn-RFY",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.80886760000004",
+            "-76.08569200999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "The Lakes East Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 8,
+          "address": "4730 Andrew Jackson Lane",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.894829540000046",
+            "-76.14027296999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Hermitage Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23455"
+        },
+        {
+          "ID": 154,
+          "address": "2440 Hunts Neck Trail",
+          "amenities": [
+            4,
+            26,
+            44,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJ49KnV2rBuokR9noB8ePnBNE",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.76612826000007",
+            "-76.02011558999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Horseshoe Pit",
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Hunt Club Forest Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 113,
+          "address": "3788 Lampl Ave",
+          "amenities": [
+            4,
+            64
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/113/attachments/14"
+          ],
+          "googlePlacesId": "ChIJkWB04z6VuokRFa8I1isrTqw",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.84284240000005",
+            "-76.10467805999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Birchwood South Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 23,
+          "address": "1051 Saw Pen Point Trail",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.86812869000005",
+            "-76.11977130999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Saw Pen Point Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23455"
+        },
+        {
+          "ID": 84,
+          "address": "4797 Indian River Road",
+          "amenities": [
+            10,
+            18,
+            35
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJ2c-W0Y2-uokRqJeQKmZWP5U",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.77165554000004",
+            "-76.16395900999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Canoe/Kayak Launch",
+            "Fishing Area",
+            "Natural Area"
+          ],
+          "notes": null,
+          "title": "Stumpy Lake Natural Area",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/city-parks/Pages/stumpy-lake-natural-area.aspx",
+          "zip": "23464"
+        },
+        {
+          "ID": 56,
+          "address": "1152 Americus Avenue",
+          "amenities": [
+            43,
+            57
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJpZ8wqy3quokR0o7CPXWhsAs",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": true,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.846020370000076",
+            "-76.00150605999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Softball/Baseball Field"
+          ],
+          "notes": null,
+          "title": "Seatack North Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23451"
+        },
+        {
+          "ID": 139,
+          "address": "2609 Buyrn Circle",
+          "amenities": [
+            44,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.76838211000006",
+            "-76.05733624999993"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Buyrn Farm Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23453"
+        },
+        {
+          "ID": 58,
+          "address": "1701 Atlantic Avenue",
+          "amenities": [
+            6
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/58/attachments/2"
+          ],
+          "googlePlacesId": "ChIJ____IJ7puokRfHFsAitJX-Y",
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.84542612000007",
+            "-75.97376353999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Beach Access"
+          ],
+          "notes": null,
+          "title": "17th Street Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23451"
+        },
+        {
+          "ID": 106,
+          "address": "3458 Glen Arden Road",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/106/attachments/25"
+          ],
+          "googlePlacesId": "ChIJJy68N4G9uokRJCSv3msI7xc",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.82855574000007",
+            "-76.21966323999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Lecove Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 157,
+          "address": "2122 Grey Fox Lane",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJgQGUT1TBuokRoGxlKzb0FKo",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.76857559000007",
+            "-76.02768827999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Hunt Club Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 116,
+          "address": "1868 Eden Way",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.87171699000004",
+            "-76.02622252999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Brighton on the Bay / Linkhorn Cove Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 141,
+          "address": "6011 Blackwater Road",
+          "amenities": [
+            4,
+            57
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.58501794000006",
+            "-76.08352859999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Softball/Baseball Field"
+          ],
+          "notes": null,
+          "title": "Blackwater Fire Station",
+          "type": "Park",
+          "url": null,
+          "zip": "23457"
+        },
+        {
+          "ID": 134,
+          "address": "1246 Bayne Drive",
+          "amenities": [
+            4,
+            5,
+            42,
+            44,
+            50,
+            56,
+            57,
+            63
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJvy3EYqbruokRdN8z3M7Jsok",
+          "hours": "7:30 am - (Posted Closing Time)",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.86727424000003",
+            "-76.03386739999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Basketball Court Lighted",
+            "Pickleball Court",
+            "Playground",
+            "Restroom",
+            "Soccer/Multi-Purpose Field",
+            "Softball/Baseball Field",
+            "Tennis Court - Lighted"
+          ],
+          "notes": null,
+          "title": "Lynnhaven Park",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/city-parks/Pages/lynnhaven-park.aspx",
+          "zip": "23454"
+        },
+        {
+          "ID": 163,
+          "address": "960 Artesia Way",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.76061848000006",
+            "-75.98342007999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Lago Mar North Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 233,
+          "address": "5252 Learning Cir",
+          "amenities": [
+            0,
+            1,
+            2,
+            12,
+            14,
+            17,
+            24,
+            25,
+            27,
+            28,
+            29,
+            31,
+            34,
+            38,
+            40,
+            45,
+            49,
+            59,
+            69,
+            71
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJkwSXUMmVuokRFvH0h-pcBHQ",
+          "hours": "Monday-Friday: 6am-8pm; Saturday: 9am-5pm; Sunday: 11am-5pm",
+          "isAdopted": true,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.86499212000007",
+            "-76.15859618999997"
+          ],
+          "isRental": true,
+          "mappedAmenities": [
+            "ADA Pool Lift",
+            "Adult Billiards",
+            "Aqua Track",
+            "Cardiovascular Equipment",
+            "Climbing/Traversing Wall",
+            "Family Changing Rooms",
+            "Group Fitness Room",
+            "Gymnasiums",
+            "Indoor Play Structure",
+            "Indoor Swimming Pool",
+            "Indoor Walking/Jogging Track",
+            "Locker Room/Showers",
+            "Meeting Rooms",
+            "Outdoor Court/Play Area & Challenge Course",
+            "Outdoor Sprayground",
+            "Pool Play Structure",
+            "Racquetball Courts",
+            "Submersible Pool Wheel Chairs",
+            "Vending Machines",
+            "Weight Room"
+          ],
+          "notes": "Williams Farm Recreation Center is a 70,993 square foot, Silver LEED-certified facility located off Newtown Road between Diamond Springs and Newtown Elementary Schools.",
+          "title": "Williams Farm Recreation Center",
+          "type": "RecCen",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/recreation-centers/Pages/williams-farm.aspx",
+          "zip": "23462"
+        },
+        {
+          "ID": 49,
+          "address": "1398 General Booth Blvd",
+          "amenities": [
+            4,
+            16,
+            26,
+            42,
+            43,
+            44,
+            48,
+            50,
+            56,
+            57,
+            61,
+            64,
+            66,
+            70
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/49/attachments/29"
+          ],
+          "googlePlacesId": "ChIJcZc5ovfBuokRgr6dd1fvE5Q",
+          "hours": "7:30 am - (Posted Closing Time)",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.79047588000003",
+            "-75.98912369999994"
+          ],
+          "isRental": true,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Dog Park",
+            "Horseshoe Pit",
+            "Pickleball Court",
+            "Picnic Shelter",
+            "Playground",
+            "Racquetball Courts",
+            "Restroom",
+            "Soccer/Multi-Purpose Field",
+            "Softball/Baseball Field",
+            "Tennis Court",
+            "Therapeutic Cradle Swing Seats",
+            "Trail-Soft",
+            "Volleyball Area - Sand"
+          ],
+          "notes": null,
+          "title": "Red Wing Park",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/city-parks/Pages/red-wing-park.aspx",
+          "zip": "23451"
+        },
+        {
+          "ID": 232,
+          "address": "1400 Nimmo Pkwy",
+          "amenities": [
+            0,
+            1,
+            12,
+            17,
+            24,
+            25,
+            27,
+            28,
+            31,
+            34,
+            49,
+            59,
+            69,
+            71,
+            72
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJ_8qVtgvBuokRbWBMpzL7wtM",
+          "hours": "Monday-Friday: 6am-8pm; Saturday: 9am-5pm; Sunday: 11am-5pm",
+          "isAdopted": true,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.764698890000034",
+            "-76.02062700999994"
+          ],
+          "isRental": true,
+          "mappedAmenities": [
+            "ADA Pool Lift",
+            "Adult Billiards",
+            "Cardiovascular Equipment",
+            "Family Changing Rooms",
+            "Group Fitness Room",
+            "Gymnasiums",
+            "Indoor Play Structure",
+            "Indoor Swimming Pool",
+            "Locker Room/Showers",
+            "Meeting Rooms",
+            "Racquetball Courts",
+            "Submersible Pool Wheel Chairs",
+            "Vending Machines",
+            "Weight Room",
+            "Youth Game Room"
+          ],
+          "notes": "Princess Anne Community Recreation Center is an 83,931 square foot multi-faceted recreational space, located adjacent to Strawbridge Elementary School and Princess Anne Area Library.",
+          "title": "Princess Anne Recreation Center",
+          "type": "RecCen",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/recreation-centers/Pages/princess-anne.aspx",
+          "zip": "23456"
+        },
+        {
+          "ID": 94,
+          "address": "5364 Chatham Hall Drive",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJC9y6bAy-uokR1HC0UsdAcKQ",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.80970989000008",
+            "-76.17257124999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Chatham Hall Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 144,
+          "address": "1909 Stillmeadow Court",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.771400130000075",
+            "-76.12230151999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Champion Oaks Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 164,
+          "address": "3268 Barberry Lane",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJcXXh13_AuokRpRn78xQQojY",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.77409841000008",
+            "-76.08352685999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Landstown Meadows West Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23453"
+        },
+        {
+          "ID": 46,
+          "address": "1813 S. Streamline Drive",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.83895534000004",
+            "-76.02691021999993"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Oceana Village Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 97,
+          "address": "5400 Hargrove Blvd",
+          "amenities": [
+            4,
+            43,
+            44,
+            65
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.82209872000004",
+            "-76.18050324999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground",
+            "Trail-Paved"
+          ],
+          "notes": null,
+          "title": "Fairfield Forest Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 224,
+          "address": "650 18th Street",
+          "amenities": [
+            46,
+            66
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.84500600000007",
+            "-75.98245399999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Public Art",
+            "Trail-Soft"
+          ],
+          "notes": null,
+          "title": "18th Street Parklet",
+          "type": "Park",
+          "url": null,
+          "zip": "23451"
+        },
+        {
+          "ID": 61,
+          "address": "1680 Grey Friars Chase",
+          "amenities": [
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJ4-9B86u_uokRg5z8Xk24Gqw",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": true,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.78429373000006",
+            "-76.12754934999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Bellamy Plantation Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 122,
+          "address": "1254 Parkside Place",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.868992150000054",
+            "-76.04416817999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Colonial Oaks Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 37,
+          "address": "2521 Peritan Road",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJkSDAvOPquokRrsK-caIdJJY",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.85138916000005",
+            "-76.05465138999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Kenstock Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 104,
+          "address": "5324 Leesburg Drive",
+          "amenities": [
+            43,
+            44,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.834050700000034",
+            "-76.16980960999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Parliament Village Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23462"
+        },
+        {
+          "ID": 57,
+          "address": "340 S. Birdneck Road",
+          "amenities": [
+            4,
+            26,
+            43,
+            44,
+            57
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.83049789000006",
+            "-75.99660674999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Horseshoe Pit",
+            "Picnic Shelter",
+            "Playground",
+            "Softball/Baseball Field"
+          ],
+          "notes": null,
+          "title": "Seatack Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23451"
+        },
+        {
+          "ID": 151,
+          "address": "2400 Esplanade Drive",
+          "amenities": [
+            44,
+            56,
+            66
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.74236913000004",
+            "-76.04091905999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Playground",
+            "Soccer/Multi-Purpose Field",
+            "Trail-Soft"
+          ],
+          "notes": null,
+          "title": "Fox Fire Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 202,
+          "address": "200 Doyle Way",
+          "amenities": [
+            4,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJeUtxAMjquokR143lLQNMTkU",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.83644547000006",
+            "-76.07329615999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Doyle Way Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 119,
+          "address": "Jade Street to Kendall Street",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.91129311000003",
+            "-76.06666727999993"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Cape Henry Trail",
+          "type": "Park",
+          "url": null,
+          "zip": "23451"
+        },
+        {
+          "ID": 137,
+          "address": "1625 Southall Drive",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJVSHSfLHruokRgZ2E-k3TBZs",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.85704306000008",
+            "-76.02398056999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Southall Quarter Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 12,
+          "address": "2185 Dinwiddie Road",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.90575844000006",
+            "-76.09841664999993"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Lock Haven Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23455"
+        },
+        {
+          "ID": 234,
+          "address": "3820 Sandpiper Road",
+          "amenities": [
+            4,
+            6,
+            8,
+            11,
+            13,
+            18,
+            19,
+            42,
+            43,
+            44,
+            47,
+            50,
+            63,
+            66,
+            70
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJC-hWa5XEuokRBjyBmHRooW4",
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.691934150000066",
+            "-75.92524962999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Beach Access",
+            "Boat Launch",
+            "Canoe/Kayak Rental",
+            "Charcoal Grills",
+            "Fishing Area",
+            "Fishing Pier",
+            "Pickleball Court",
+            "Picnic Shelter",
+            "Playground",
+            "Public Use AED",
+            "Restroom",
+            "Tennis Court - Lighted",
+            "Trail-Soft",
+            "Volleyball Area - Sand"
+          ],
+          "notes": null,
+          "title": "Little Island Park",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/city-parks/Pages/little-island-park.aspx",
+          "zip": "23456"
+        },
+        {
+          "ID": 214,
+          "address": "3332 Northgate Drive",
+          "amenities": [
+            43,
+            44,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.81652500000007",
+            "-76.09036499999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Plaza Park (Northgate)",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 62,
+          "address": "2096 Brush Hill Lane",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.76623187000007",
+            "-76.12823456999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Bellwood Estates Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 223,
+          "address": "524 Kempsville Road",
+          "amenities": [
+            23,
+            46,
+            52,
+            65
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "7:30 am - (Posted Closing Time)",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.82446100000004",
+            "-76.16048399999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Gazebo",
+            "Public Art",
+            "Shared-Use Path",
+            "Trail-Paved"
+          ],
+          "notes": null,
+          "title": "Kempes Landing Park",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/city-parks/Pages/kempes-landing-park.aspx",
+          "zip": "23464"
+        },
+        {
+          "ID": 125,
+          "address": "781 Old Cutler Road",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJQRcHuqjruokRHsTL3q9aMPM",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": true,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.862366380000026",
+            "-76.03411277999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Great Neck Meadows Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 210,
+          "address": "3733 Chancery Lane",
+          "amenities": [
+            4,
+            43,
+            44,
+            57
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.819160640000064",
+            "-76.10699874999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground",
+            "Softball/Baseball Field"
+          ],
+          "notes": null,
+          "title": "Liberty Ridge Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 126,
+          "address": "409 North Lynnhaven Road",
+          "amenities": [
+            43,
+            44,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.84619194000004",
+            "-76.08201231999993"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Groveland Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 220,
+          "address": "532 Windsor Oaks Blvd",
+          "amenities": [
+            4,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJzWX0pmGVuokRv1Tkx7_60W8",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.82246895000003",
+            "-76.11207686999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Windsor Oaks West Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 3,
+          "address": "709 Aragona Blvd",
+          "amenities": [
+            4,
+            43,
+            44
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/3/attachments/8"
+          ],
+          "googlePlacesId": null,
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.85850657000003",
+            "-76.14557782999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Aragona Christ Pres. Church Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23455"
+        },
+        {
+          "ID": 135,
+          "address": "1860 N. Great Neck Road",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.89953501000008",
+            "-76.05860455999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Meadow Ridge Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 124,
+          "address": "1210 Moorefield Court",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJMf_5bQrruokRUHagX3XO9E8",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.87105406000006",
+            "-76.03987487999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Great Neck Farms Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 51,
+          "address": "1001 Coastaway Drive",
+          "amenities": [
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.83986969000006",
+            "-75.99093034999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Seabridge Square Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23451"
+        },
+        {
+          "ID": 36,
+          "address": "Hutton Circle",
+          "amenities": [
+            10
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJQwYEMunquokRe5oCcj9vxg0",
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.842031630000065",
+            "-76.05672398999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Canoe/Kayak Launch"
+          ],
+          "notes": null,
+          "title": "Hutton Circle Launch",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 115,
+          "address": "824 Bay Colony Drive",
+          "amenities": [
+            56
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/115/attachments/9"
+          ],
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.874979300000064",
+            "-75.99776951999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Soccer/Multi-Purpose Field"
+          ],
+          "notes": null,
+          "title": "Bay Colony Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23451"
+        },
+        {
+          "ID": 48,
+          "address": "2128 Chicken Valley Road",
+          "amenities": [
+            43,
+            44,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.84917757000005",
+            "-76.04441825999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Point O' Woods Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 185,
+          "address": "1933 Stillwood Lane",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.769946780000055",
+            "-76.12112463999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Salem Lakes South Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 9,
+          "address": "4712 Mckenzie Drive",
+          "amenities": [
+            4,
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.88697365000007",
+            "-76.14326684999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Lakeview Shores Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23455"
+        },
+        {
+          "ID": 123,
+          "address": "1910 Long Bridge Lane",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.85673119000006",
+            "-76.03453502999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Gloucester Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 143,
+          "address": "3390 Head River Road",
+          "amenities": [
+            4,
+            43,
+            44,
+            57
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.61995796000008",
+            "-76.10990210999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground",
+            "Softball/Baseball Field"
+          ],
+          "notes": null,
+          "title": "Blackwater Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23457"
+        },
+        {
+          "ID": 183,
+          "address": "1900 Sandbridge Road",
+          "amenities": [
+            43,
+            44,
+            57,
+            58
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJ54csBmbBuokRBeUnUcjsh3w",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.748605920000045",
+            "-76.00348230999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground",
+            "Softball/Baseball Field",
+            "Softball/Baseball Field Lighted"
+          ],
+          "notes": null,
+          "title": "Red Mill Farms Park",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/city-parks/Pages/red-mill-farms-park.aspx",
+          "zip": "23456"
+        },
+        {
+          "ID": 67,
+          "address": "5277 Lynnhaven Pkwy",
+          "amenities": [
+            4,
+            43,
+            44
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/67/attachments/17"
+          ],
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.782488380000075",
+            "-76.17242978999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Brigadoon Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 96,
+          "address": "421 Indian Summer Lane",
+          "amenities": [
+            4,
+            44,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.852884130000064",
+            "-76.16345254999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Grand Lakes Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23462"
+        },
+        {
+          "ID": 165,
+          "address": "1289 Sandbridge Road",
+          "amenities": [
+            10,
+            18
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJw8KT0OTDuokR43_6rjMsx9o",
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.73100531000006",
+            "-75.98464094999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Canoe/Kayak Launch",
+            "Fishing Area"
+          ],
+          "notes": null,
+          "title": "Lotus Garden Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 209,
+          "address": "3698 Holland Road",
+          "amenities": [
+            4
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.81472087000003",
+            "-76.10028151999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court"
+          ],
+          "notes": null,
+          "title": "Pecan Gardens Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 212,
+          "address": "2800 Ansol Lane",
+          "amenities": [
+            4,
+            44,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.83769423000007",
+            "-76.07176342999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Pinewood Gardens Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 175,
+          "address": "1041 Wasserman Drive",
+          "amenities": [
+            4,
+            43,
+            44,
+            56
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJcxyI5KXDuokR0EpKpM2d-zg",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.779828520000024",
+            "-75.98767250999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground",
+            "Soccer/Multi-Purpose Field"
+          ],
+          "notes": null,
+          "title": "Pine Meadows Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 167,
+          "address": "2368 Breezy Pines Lane",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.77031458000005",
+            "-76.02276712999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Middle Oaks Plantation Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 171,
+          "address": "1276 Tennyson Road",
+          "amenities": [
+            43
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJkfrjt-nBuokRxh_38ueFeOk",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.76674835000006",
+            "-76.00174215999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter"
+          ],
+          "notes": null,
+          "title": "Ocean Lakes East Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 177,
+          "address": "2049 Upton Drive",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJU_x-EHjBuokRXvAjlV9WeHI",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.76428020000003",
+            "-76.00345058999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Red Mill Farms North Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 88,
+          "address": "4076 Ware Neck Drive",
+          "amenities": [
+            43,
+            44,
+            57
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.77197896000007",
+            "-76.12711023999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground",
+            "Softball/Baseball Field"
+          ],
+          "notes": null,
+          "title": "Wyndamere Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 193,
+          "address": "3017 Damascus Trail",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.770434100000045",
+            "-76.06993198999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Wood of Piney Grove Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23453"
+        },
+        {
+          "ID": 131,
+          "address": "3125 Shore Drive",
+          "amenities": [
+            4,
+            43,
+            44,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJ6ZFw3K3suokRPARU-bHk4gc",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.90915976000008",
+            "-76.08014742999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Lynnhaven Colony Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23451"
+        },
+        {
+          "ID": 110,
+          "address": "609 Woodstock Road",
+          "amenities": [
+            26,
+            43,
+            44,
+            56
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.821092210000074",
+            "-76.20105428999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Horseshoe Pit",
+            "Picnic Shelter",
+            "Playground",
+            "Soccer/Multi-Purpose Field"
+          ],
+          "notes": null,
+          "title": "Woodstock Cove Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 120,
+          "address": "2235 Bayberry Street",
+          "amenities": [
+            4,
+            44,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJK2O7dr3tuokRFv3IDKXTrpI",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.912239010000064",
+            "-76.06224964999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Cape Story Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23451"
+        },
+        {
+          "ID": 64,
+          "address": "2441 Round Hill Drive",
+          "amenities": [
+            44,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.76699940000003",
+            "-76.13765697999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Bentley Gate Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 30,
+          "address": "2854 Kilbourne Court",
+          "amenities": [
+            36,
+            43,
+            44,
+            50,
+            52,
+            57,
+            65
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/30/attachments/11"
+          ],
+          "googlePlacesId": "ChIJV_OeEXvpuokRbXOaG7rxtDk",
+          "hours": "7:30 am - (Posted Closing Time)",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.856390660000045",
+            "-75.98487309999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Open Playing Field",
+            "Picnic Shelter",
+            "Playground",
+            "Restroom",
+            "Shared-Use Path",
+            "Softball/Baseball Field",
+            "Trail-Paved"
+          ],
+          "notes": null,
+          "title": "Beach Garden Park",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/city-parks/Pages/beach-garden-park.aspx",
+          "zip": "23451"
+        },
+        {
+          "ID": 161,
+          "address": "3180 Monet Drive",
+          "amenities": [
+            43,
+            44,
+            56
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.779577380000035",
+            "-76.08076426999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground",
+            "Soccer/Multi-Purpose Field"
+          ],
+          "notes": null,
+          "title": "Landstown Lakes Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23453"
+        },
+        {
+          "ID": 100,
+          "address": "574 Cardamon Drive",
+          "amenities": [
+            44
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/100/attachments/23"
+          ],
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.827961800000026",
+            "-76.20430937999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Hunts Pointe Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 201,
+          "address": "1508 Competitor Court",
+          "amenities": [
+            43,
+            44,
+            57,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJ6f49QI6_uokRm649_C9abms",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.79072018000005",
+            "-76.09577123999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground",
+            "Softball/Baseball Field",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Buckner Farms Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23453"
+        },
+        {
+          "ID": 108,
+          "address": "5984 Margate Avenue",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.861320490000026",
+            "-76.18571236999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Margate Avenue Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23462"
+        },
+        {
+          "ID": 179,
+          "address": "1577 Bunsen Drive",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJk3IO8yLCuokRW3GHDk03J1U",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.78193978000007",
+            "-75.98357130999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Pine Meadows West Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 130,
+          "address": "Kings Grant Road",
+          "amenities": [
+            37
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.861329160000025",
+            "-76.09105306999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Open Space Preservation Area"
+          ],
+          "notes": null,
+          "title": "Kings Grant Parcel",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 13,
+          "address": "4775 Haygood Point Road",
+          "amenities": [
+            4,
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.87752313000004",
+            "-76.14819200999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Haygood Point Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23455"
+        },
+        {
+          "ID": 112,
+          "address": "900 Minden Road",
+          "amenities": [
+            4,
+            43,
+            44,
+            57,
+            64
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/112/attachments/34"
+          ],
+          "googlePlacesId": "ChIJv4mWkBG-uokRNeLrzX87Onk",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.81172201000004",
+            "-76.16475594999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground",
+            "Softball/Baseball Field",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Stratford Chase Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 102,
+          "address": "641 Pinebrook Drive",
+          "amenities": [
+            43,
+            44,
+            61
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.81423938000006",
+            "-76.12849019999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground",
+            "Tennis Court"
+          ],
+          "notes": null,
+          "title": "Larkspur Greens Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23462"
+        },
+        {
+          "ID": 5,
+          "address": "Lookout Road & Northampton Blvd",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.91801669000006",
+            "-76.13137513999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Chesapeake Beach Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23455"
+        },
+        {
+          "ID": 18,
+          "address": "4333 Pembroke Blvd",
+          "amenities": [
+            44,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJh3Dt2BKVuokRwAms2UKCn44",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.862681000000066",
+            "-76.12306899999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Pembroke Meadows Lake Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23455"
+        },
+        {
+          "ID": 191,
+          "address": "2301 Hunts Neck Trail",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJSRixdavBuokR_EZ_43SBaFw",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.77112026000003",
+            "-76.02062354999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Strawbridge Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 20,
+          "address": "857 Romney Lane",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": "ChIJe3TFndGVuokRe6EF4WnR1fM",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.864252960000044",
+            "-76.14270684999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Romney Lane Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23462"
+        },
+        {
+          "ID": 158,
+          "address": "817 Artesia Way",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.75317278000006",
+            "-75.97885643999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Lago Mar at Back Bay Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 50,
+          "address": "1213-B Eaglewood Drive",
+          "amenities": [
+            4,
+            43,
+            44,
+            57
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.78939819000004",
+            "-76.00194630999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground",
+            "Softball/Baseball Field"
+          ],
+          "notes": null,
+          "title": "Red Wing On The Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 71,
+          "address": "5592 Lynnhaven Pkwy",
+          "amenities": [
+            4,
+            43,
+            57,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": true,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.770811620000075",
+            "-76.18263678999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Softball/Baseball Field",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Charlestown Athletic Complex Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 230,
+          "address": "2521 Shorehaven Dr",
+          "amenities": [
+            0,
+            1,
+            12,
+            17,
+            24,
+            25,
+            27,
+            28,
+            31,
+            34,
+            49,
+            69,
+            71,
+            72
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJlcDklW_ruokRAWP9TqlsWRo",
+          "hours": "Monday-Friday: 6am-8pm; Saturday: 9am-5pm; Sunday: 11am-5pm",
+          "isAdopted": true,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.88498282000006",
+            "-76.05713636999997"
+          ],
+          "isRental": true,
+          "mappedAmenities": [
+            "ADA Pool Lift",
+            "Adult Billiards",
+            "Cardiovascular Equipment",
+            "Family Changing Rooms",
+            "Group Fitness Room",
+            "Gymnasiums",
+            "Indoor Play Structure",
+            "Indoor Swimming Pool",
+            "Locker Room/Showers",
+            "Meeting Rooms",
+            "Racquetball Courts",
+            "Vending Machines",
+            "Weight Room",
+            "Youth Game Room"
+          ],
+          "notes": "Great Neck Community Recreation Center is an 83,931 square foot multi-faceted center, located behind Cox High School and next door to Great Neck Park.",
+          "title": "Great Neck Recreation Center",
+          "type": "RecCen",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/recreation-centers/Pages/great-neck.aspx",
+          "zip": "23454"
+        },
+        {
+          "ID": 74,
+          "address": "4757 Ardmore Lane",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.78749215000005",
+            "-76.14221422999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Coventry Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 153,
+          "address": "2962 Sugar Maple Drive",
+          "amenities": [
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJScnD1mPAuokRM7C24M_Qp6k",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.77567164000004",
+            "-76.06832443999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Holland Oaks Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23453"
+        },
+        {
+          "ID": 150,
+          "address": "Renaissance Way",
+          "amenities": [
+            37,
+            66
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.741674000000046",
+            "-76.04192399999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Open Space Preservation Area",
+            "Trail-Soft"
+          ],
+          "notes": null,
+          "title": "Fox Fire Parcel",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 138,
+          "address": "416 Thalia Road",
+          "amenities": [
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJ78tZHxKVuokR4P1GuQBE6XA",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.84680461000005",
+            "-76.11952893999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Thalia Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 206,
+          "address": "1500 Lynnhaven Parkway",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.79708012000003",
+            "-76.11384234999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Green Run Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23453"
+        },
+        {
+          "ID": 76,
+          "address": "2640 Highland Meadows Way",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.75511385000004",
+            "-76.11313701999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Highland Meadows Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 208,
+          "address": "3629 Kings Point Road",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.82485746000003",
+            "-76.09855467999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Lineberry Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 103,
+          "address": "704 Hampshire Lane",
+          "amenities": [
+            4,
+            43
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJGWlWYoSVuokRRa3uqkJgJWo",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.86425364000007",
+            "-76.17183612999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter"
+          ],
+          "notes": null,
+          "title": "Lake Edward Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23462"
+        },
+        {
+          "ID": 189,
+          "address": "2281 Huckleberry Trail",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJuX6-Gw_BuokR0cazVDGN-j4",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": true,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.76019499000006",
+            "-76.02513930999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Southgate Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 156,
+          "address": "1669 Chestwood Drive",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.774792270000034",
+            "-76.06486930999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Holland Pines West Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23453"
+        },
+        {
+          "ID": 188,
+          "address": "916 Gideon Road",
+          "amenities": [
+            43,
+            44,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.762831420000055",
+            "-75.99408673999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Sawyer Lakes Estates Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 192,
+          "address": "2125 Weybridge Drive",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.77172727000004",
+            "-76.01786338999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Strawbridge North Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 204,
+          "address": "252 Kings Grant Road",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.84074259000005",
+            "-76.07877326999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Francis Land Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 195,
+          "address": "1916 Eastborne Drive",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.77839138000007",
+            "-75.99696694999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Upton Estates Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 198,
+          "address": "2249 North Landing Road",
+          "amenities": [
+            18,
+            35,
+            65,
+            66
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJGyjErOnAuokRWOJN223W3oA",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.73543798000003",
+            "-76.04609110999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Fishing Area",
+            "Natural Area",
+            "Trail-Paved",
+            "Trail-Soft"
+          ],
+          "notes": null,
+          "title": "West Neck Creek Natural Area",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/city-parks/Pages/west-neck-creek-natural-area.aspx",
+          "zip": "23456"
+        },
+        {
+          "ID": 229,
+          "address": "3427 Club House Rd",
+          "amenities": [
+            0,
+            12,
+            17,
+            24,
+            25,
+            27,
+            28,
+            31,
+            34,
+            45,
+            59,
+            69,
+            71,
+            72
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJBX--xVOVuokReriJhfle6t0",
+          "hours": "Monday-Friday: 6am-8pm; Saturday: 9am-5pm; Sunday: 11am-5pm",
+          "isAdopted": true,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.82310975000007",
+            "-76.09075663999994"
+          ],
+          "isRental": true,
+          "mappedAmenities": [
+            "ADA Pool Lift",
+            "Cardiovascular Equipment",
+            "Family Changing Rooms",
+            "Group Fitness Room",
+            "Gymnasiums",
+            "Indoor Play Structure",
+            "Indoor Swimming Pool",
+            "Locker Room/Showers",
+            "Meeting Rooms",
+            "Pool Play Structure",
+            "Submersible Pool Wheel Chairs",
+            "Vending Machines",
+            "Weight Room",
+            "Youth Game Room"
+          ],
+          "notes": "Bow Creek Recreation Center is a 67,743 square foot state-of-the-art facility located off Rosemont Road. To participate in most activities you will need a valid membership card or day pass.",
+          "title": "Bow Creek Recreation Center",
+          "type": "RecCen",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/recreation-centers/Pages/bow-creek.aspx",
+          "zip": "23452"
+        },
+        {
+          "ID": 79,
+          "address": "1111 Thompkins Lane",
+          "amenities": [
+            4,
+            43,
+            44,
+            50,
+            57,
+            58,
+            64
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/79/attachments/27"
+          ],
+          "googlePlacesId": "EjtOZXdsaWdodCBQYXJrLCAxMTExIFRob21wa2lucyBMYW5lLCBWaXJnaW5pYSBCZWFjaCwgVkEsIFVTQSIxEi8KFAoSCY_qzL7fvbqJES3r62GgBR7BENcIKhQKEgmJrj4B3726iRHVHHVcvOdlDQ",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": true,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.80502978000004",
+            "-76.18118229999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground",
+            "Restroom",
+            "Softball/Baseball Field",
+            "Softball/Baseball Field Lighted",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Newlight Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 219,
+          "address": "3292 Boynton Court",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.81163285000008",
+            "-76.09119267999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "The Lakes Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 60,
+          "address": "5569 Glen View Drive",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/60/attachments/6"
+          ],
+          "googlePlacesId": "ChIJEbF5dTy8uokRz8wN8FD3uMA",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.77138413000006",
+            "-76.19413547999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Alexandria Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 178,
+          "address": "2561 Cantwell Road",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.760752350000075",
+            "-76.06080893999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Princess Anne Crossing Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23453"
+        },
+        {
+          "ID": 121,
+          "address": "2532 Queens Elm Place",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.894659070000046",
+            "-76.05556350999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Chelsea/Greenhill Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 69,
+          "address": "1052 Kinderly Lane",
+          "amenities": [
+            4,
+            43,
+            44,
+            57
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.763882350000074",
+            "-76.17739167999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground",
+            "Softball/Baseball Field"
+          ],
+          "notes": null,
+          "title": "Charlestown Lakes South Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 26,
+          "address": "5269 Learning Circle",
+          "amenities": [
+            43,
+            50,
+            54,
+            65
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJSaxZ58uVuokRM3fp-YrSxDM",
+          "hours": "7:30 am - (Posted Closing Time)",
+          "isAdopted": true,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.862474450000036",
+            "-76.15732041999996"
+          ],
+          "isRental": true,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Restroom",
+            "Skate Park",
+            "Trail-Paved"
+          ],
+          "notes": null,
+          "title": "Williams Farm Park",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/city-parks/Pages/williams-farm-park.aspx",
+          "zip": "23462"
+        },
+        {
+          "ID": 211,
+          "address": "832 Northwood Drive",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.80691542000005",
+            "-76.09685507999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Oak Springs Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 99,
+          "address": "714 Rosaer Circle",
+          "amenities": [
+            4,
+            43,
+            44,
+            57
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.81789807000007",
+            "-76.17256854999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground",
+            "Softball/Baseball Field"
+          ],
+          "notes": null,
+          "title": "Fairfield Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 55,
+          "address": "141 Marshview Drive",
+          "amenities": [
+            43,
+            44,
+            61
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/55/attachments/33"
+          ],
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": true,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.83632053000008",
+            "-75.99220746999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground",
+            "Tennis Court"
+          ],
+          "notes": null,
+          "title": "Salt Marsh Point Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23451"
+        },
+        {
+          "ID": 70,
+          "address": "1760 Legare Lane",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.780490550000025",
+            "-76.18003360999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Charlestown East Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 114,
+          "address": "3632 Royal Palm Arch",
+          "amenities": [
+            18,
+            43,
+            44,
+            62
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": true,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.85100236000005",
+            "-76.09977491999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Fishing Area",
+            "Picnic Shelter",
+            "Playground",
+            "Tennis Court - Indoor"
+          ],
+          "notes": null,
+          "title": "Birchwood-Malibu Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 174,
+          "address": "4001 Dam Neck Road",
+          "amenities": [
+            43,
+            50,
+            56,
+            57,
+            58,
+            65
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/174/attachments/28"
+          ],
+          "googlePlacesId": "ChIJqW9Z4W2_uokRXkGw1T8gO1U",
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.76594045000007",
+            "-76.09947436999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Restroom",
+            "Soccer/Multi-Purpose Field",
+            "Softball/Baseball Field",
+            "Softball/Baseball Field Lighted",
+            "Trail-Paved"
+          ],
+          "notes": "Fields and shelters for league / tournament play only.",
+          "title": "Princess Anne Athletic Complex",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/sports/Pages/princess-anne-athletic-complex.aspx",
+          "zip": "23456"
+        },
+        {
+          "ID": 231,
+          "address": "800 Monmouth Ln",
+          "amenities": [
+            0,
+            1,
+            2,
+            12,
+            14,
+            17,
+            24,
+            25,
+            27,
+            28,
+            29,
+            31,
+            34,
+            45,
+            49,
+            59,
+            69,
+            71
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJF_eyEyO-uokRSaHi7TQiEkg",
+          "hours": "Monday-Friday: 6am-8pm; Saturday: 9am-5pm; Sunday: 11am-5pm",
+          "isAdopted": true,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.814426000000026",
+            "-76.15211399999998"
+          ],
+          "isRental": true,
+          "mappedAmenities": [
+            "ADA Pool Lift",
+            "Adult Billiards",
+            "Aqua Track",
+            "Cardiovascular Equipment",
+            "Climbing/Traversing Wall",
+            "Family Changing Rooms",
+            "Group Fitness Room",
+            "Gymnasiums",
+            "Indoor Play Structure",
+            "Indoor Swimming Pool",
+            "Indoor Walking/Jogging Track",
+            "Locker Room/Showers",
+            "Meeting Rooms",
+            "Pool Play Structure",
+            "Racquetball Courts",
+            "Submersible Pool Wheel Chairs",
+            "Vending Machines",
+            "Weight Room"
+          ],
+          "notes": "Kempsville Recreation Center, located just off Princess Anne Road, originally opened in 1977 as Virginia Beach's first community recreation center. The new Kempsville Recreation Center opened in June 2017 and is an 87,116 square foot state-of-the-art fac",
+          "title": "Kempsville Recreation Center",
+          "type": "RecCen",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/recreation-centers/Pages/kempsville.aspx",
+          "zip": "23464"
+        },
+        {
+          "ID": 155,
+          "address": "1700 Hammerstone Court",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.765430380000055",
+            "-76.05360716999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Holland Woods Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23453"
+        },
+        {
+          "ID": 15,
+          "address": "588 Prospect Lane",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.85959606000006",
+            "-76.16681210999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Newsome Farms Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23462"
+        },
+        {
+          "ID": 199,
+          "address": "1777 Brigands Way",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/199/attachments/20"
+          ],
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.78048583000003",
+            "-76.08502297999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Brigand's Quay Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23453"
+        },
+        {
+          "ID": 173,
+          "address": "1497 Galvani Drive",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.78371260000006",
+            "-75.98359336999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Pine Meadows Place Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 203,
+          "address": "3418-B Waltham Circle",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.81415566000004",
+            "-76.09439630999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Holly Green Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 83,
+          "address": "5600 New Colony",
+          "amenities": [
+            44,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.81321819000004",
+            "-76.18656677999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Stoneybrook Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 132,
+          "address": "Adam Keeling & Great Neck Road",
+          "amenities": [
+            18,
+            37
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.901068000000066",
+            "-76.06697799999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Fishing Area",
+            "Open Space Preservation Area"
+          ],
+          "notes": null,
+          "title": "Long Creek Bridge Parcel",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 33,
+          "address": "2600 Southern Blvd",
+          "amenities": [
+            4,
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJ--b1K07ruokRl1uyPGcyoF0",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.83945113000004",
+            "-76.06197952999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Eureka Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 127,
+          "address": "2513 Shorehaven Drive",
+          "amenities": [
+            4,
+            13,
+            23,
+            26,
+            43,
+            44,
+            47,
+            50,
+            52,
+            57,
+            64,
+            66,
+            70
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJIxJZEmnruokRxMUUNGjCqFI",
+          "hours": "7:30 am - (Posted Closing Time)",
+          "isAdopted": true,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.88457543000004",
+            "-76.05229415999997"
+          ],
+          "isRental": true,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Charcoal Grills",
+            "Gazebo",
+            "Horseshoe Pit",
+            "Picnic Shelter",
+            "Playground",
+            "Public Use AED",
+            "Restroom",
+            "Shared-Use Path",
+            "Softball/Baseball Field",
+            "Therapeutic Cradle Swing Seats",
+            "Trail-Soft",
+            "Volleyball Area - Sand"
+          ],
+          "notes": null,
+          "title": "Great Neck Park",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/city-parks/Pages/great-neck-park.aspx",
+          "zip": "23454"
+        },
+        {
+          "ID": 29,
+          "address": "2405 Atlantic Avenue",
+          "amenities": [
+            6,
+            50
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/29/attachments/3"
+          ],
+          "googlePlacesId": null,
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.85260480000005",
+            "-75.97583282999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Beach Access",
+            "Restroom"
+          ],
+          "notes": null,
+          "title": "24th Street Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23451"
+        },
+        {
+          "ID": 152,
+          "address": "2400 Espalande Drive",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.74116697000005",
+            "-76.04021850999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Fox Fire East Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 98,
+          "address": "4468 Paddock Lane",
+          "amenities": [
+            4,
+            43,
+            44,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJreN2IDS-uokRwqTG0gmjo9U",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.805525560000035",
+            "-76.13752368999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Dunbarton Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 111,
+          "address": "5720 Normandy Avenue",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.82693794000005",
+            "-76.18818652999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Woods of Avalon Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 147,
+          "address": "Princess Anne Road",
+          "amenities": [
+            10
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.75589387000008",
+            "-76.04043131999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Canoe/Kayak Launch"
+          ],
+          "notes": null,
+          "title": "Dozier Bridge Launch",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 197,
+          "address": "1136 Crossway Road",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.78174283000004",
+            "-75.99575754999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Upton Estates North Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 162,
+          "address": "1916 Winter Forest Court",
+          "amenities": [
+            43,
+            44,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.77299208000005",
+            "-76.07051237999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Landstown Meadows Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23453"
+        },
+        {
+          "ID": 89,
+          "address": "1525 Salem Road",
+          "amenities": [
+            16,
+            36,
+            43,
+            44,
+            65
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJdTBiwbO_uokRxR4T2ouDr-o",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.79269278000004",
+            "-76.12675412999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Dog Park",
+            "Open Playing Field",
+            "Picnic Shelter",
+            "Playground",
+            "Trail-Paved"
+          ],
+          "notes": null,
+          "title": "Salem Woods Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 41,
+          "address": "Marshview Drive",
+          "amenities": [
+            16,
+            35,
+            43,
+            44,
+            65,
+            66
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.832536610000034",
+            "-75.99015137999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Dog Park",
+            "Natural Area",
+            "Picnic Shelter",
+            "Playground",
+            "Trail-Paved",
+            "Trail-Soft"
+          ],
+          "notes": null,
+          "title": "Marshview Park & Natural Areas",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/city-parks/Pages/marshview-park.aspx",
+          "zip": "23451"
+        },
+        {
+          "ID": 86,
+          "address": "Lynnhaven Pkwy",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.77446105000007",
+            "-76.17867754999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Woodbridge Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 39,
+          "address": "2933 Augusta Circle",
+          "amenities": [
+            4,
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJ8cQNDxzAuokRIP08vCJLysQ",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.80998351000005",
+            "-76.06960406999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Lamplight Manor Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23453"
+        },
+        {
+          "ID": 47,
+          "address": "701 General Booth Blvd",
+          "amenities": [
+            8,
+            10
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.82284812000006",
+            "-75.98144614999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Boat Launch",
+            "Canoe/Kayak Launch"
+          ],
+          "notes": null,
+          "title": "Owl Creek Boat Ramp",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/beach-boat-facilities/Pages/owl-creek-boat-ramp.aspx",
+          "zip": "23451"
+        },
+        {
+          "ID": 63,
+          "address": "5207 Albright Drive",
+          "amenities": [
+            4,
+            43,
+            44
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/63/attachments/18"
+          ],
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": true,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.78489590000004",
+            "-76.16347349999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Brigadoon Pines Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 109,
+          "address": "828 Monmouth Lane",
+          "amenities": [
+            44,
+            61,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.816083640000045",
+            "-76.15083247999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Playground",
+            "Tennis Court",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Lark Downs Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23462"
+        },
+        {
+          "ID": 11,
+          "address": "5381 Shell Road",
+          "amenities": [
+            8,
+            9,
+            10,
+            18,
+            22,
+            35,
+            43,
+            44,
+            50,
+            64,
+            65,
+            66
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.892288300000075",
+            "-76.16552539999998"
+          ],
+          "isRental": true,
+          "mappedAmenities": [
+            "Boat Launch",
+            "Boat Trailer Parking",
+            "Canoe/Kayak Launch",
+            "Fishing Area",
+            "Floating Crew Dock",
+            "Natural Area",
+            "Picnic Shelter",
+            "Playground",
+            "Restroom",
+            "Therapeutic Cradle Swing Seats",
+            "Trail-Paved",
+            "Trail-Soft"
+          ],
+          "notes": null,
+          "title": "Lake Lawson / Lake Smith Natural Area",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/city-parks/Pages/lake-smith-lake-lawson.aspx",
+          "zip": "23455"
+        },
+        {
+          "ID": 184,
+          "address": "2360 Fenwick Way",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.75907567000007",
+            "-76.04791487999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Princess Anne Quarter Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23453"
+        },
+        {
+          "ID": 205,
+          "address": "156 Golden Maple Drive",
+          "amenities": [
+            4,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJzaVPGbbquokRVOrZXrCW59M",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": true,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.836887330000025",
+            "-76.07879950999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Lynnhaven Woods Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 215,
+          "address": "169 Thalia Trace Drive",
+          "amenities": [
+            44,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.83609309000008",
+            "-76.10967501999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Thalia Trace Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 194,
+          "address": "1921 Lewisham Way",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.771620830000074",
+            "-76.01414488999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Strawbridge East Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 207,
+          "address": "310 Edwin Drive",
+          "amenities": [
+            7,
+            13,
+            18,
+            21,
+            26,
+            39,
+            43,
+            44,
+            50,
+            52,
+            54,
+            64,
+            65,
+            68,
+            70
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/207/attachments/36",
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/207/attachments/37",
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/207/attachments/38",
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/207/attachments/39",
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/207/attachments/40",
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/207/attachments/41"
+          ],
+          "googlePlacesId": "ChIJ7aZjk3uVuokRV-RK8J0MIOw",
+          "hours": "7:30 am - (Posted Closing Time)",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.82913466000008",
+            "-76.12309886999998"
+          ],
+          "isRental": true,
+          "mappedAmenities": [
+            "Boardwalk",
+            "Charcoal Grills",
+            "Fishing Area",
+            "Fitness Stations",
+            "Horseshoe Pit",
+            "Outdoor Pavilion/Amphitheater",
+            "Picnic Shelter",
+            "Playground",
+            "Restroom",
+            "Shared-Use Path",
+            "Skate Park",
+            "Therapeutic Cradle Swing Seats",
+            "Trail-Paved",
+            "Vending Machines",
+            "Volleyball Area - Sand"
+          ],
+          "notes": null,
+          "title": "Mount Trashmore Park",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/city-parks/Pages/mount-trashmore-park.aspx",
+          "zip": "23462"
+        },
+        {
+          "ID": 159,
+          "address": "2540 Hunter's Run Trail",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.76415298000006",
+            "-76.02783239999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Hunter's Run Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 28,
+          "address": "3101 Atlantic Avenue",
+          "amenities": [
+            6,
+            44
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/28/attachments/4"
+          ],
+          "googlePlacesId": null,
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.859635000000026",
+            "-75.97790199999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Beach Access",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "31st Street Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23451"
+        },
+        {
+          "ID": 140,
+          "address": "1745 Box Elder Arch",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.77608850000007",
+            "-75.98732857999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Box Elder Arch Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 190,
+          "address": "2400 Lillipond Lane",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.75566117000005",
+            "-76.03236530999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Southgate West Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 19,
+          "address": "3957 Marlin Bay Drive",
+          "amenities": [
+            10,
+            35,
+            66
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJuXekQF-TuokRLR0VjRZg-9A",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.90725050000003",
+            "-76.10744699999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Canoe/Kayak Launch",
+            "Natural Area",
+            "Trail-Soft"
+          ],
+          "notes": null,
+          "title": "Pleasure House Point Natural Area",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/city-parks/Pages/pleasure-house-point.aspx",
+          "zip": "23455"
+        },
+        {
+          "ID": 31,
+          "address": "1299 Old Virginia Beach Road",
+          "amenities": [
+            10
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/31/attachments/15"
+          ],
+          "googlePlacesId": null,
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.848074600000075",
+            "-76.00241659999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Canoe/Kayak Launch"
+          ],
+          "notes": null,
+          "title": "Birdneck Launch",
+          "type": "Park",
+          "url": null,
+          "zip": "23451"
+        },
+        {
+          "ID": 101,
+          "address": "753 Hampshire Lane",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.866401050000036",
+            "-76.17352680999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Lake Edward North Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23462"
+        },
+        {
+          "ID": 221,
+          "address": "2001 Pefley Lane",
+          "amenities": [
+            4,
+            8,
+            10,
+            13,
+            15,
+            18,
+            26,
+            39,
+            43,
+            44,
+            50,
+            57,
+            64,
+            66,
+            70
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/221/attachments/26"
+          ],
+          "googlePlacesId": "ChIJy5tzhQnJuokRRwKmSAuQbiQ",
+          "hours": "7:30 am - (Posted Closing Time)",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.58416801000004",
+            "-76.03744613999999"
+          ],
+          "isRental": true,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Boat Launch",
+            "Canoe/Kayak Launch",
+            "Charcoal Grills",
+            "Disc Golf Course",
+            "Fishing Area",
+            "Horseshoe Pit",
+            "Outdoor Pavilion/Amphitheater",
+            "Picnic Shelter",
+            "Playground",
+            "Restroom",
+            "Softball/Baseball Field",
+            "Therapeutic Cradle Swing Seats",
+            "Trail-Soft",
+            "Volleyball Area - Sand"
+          ],
+          "notes": null,
+          "title": "Munden Point Park",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/city-parks/Pages/munden-point-park.aspx",
+          "zip": "23457"
+        },
+        {
+          "ID": 128,
+          "address": "1321 Parkside Place",
+          "amenities": [
+            4,
+            43,
+            44,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.87417787000004",
+            "-76.04483353999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Laurel Cove Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 187,
+          "address": "1712 Moonstone Drive",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJnVx0YaG_uokRjnhzo_OAPWw",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.782767550000074",
+            "-76.11285452999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Salem Village Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 218,
+          "address": "3024 Holland Road",
+          "amenities": [
+            56
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.78412100000003",
+            "-76.07736299999993"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Soccer/Multi-Purpose Field"
+          ],
+          "notes": null,
+          "title": "Holland Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23453"
+        },
+        {
+          "ID": 16,
+          "address": "5210 Condor Street",
+          "amenities": [
+            4,
+            44,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJt_nY5YqVuokRAcgZgC8yCYQ",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": true,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.85117098000006",
+            "-76.15990206999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Northridge Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23462"
+        },
+        {
+          "ID": 136,
+          "address": "3181 Little Haven Road",
+          "amenities": [
+            43,
+            44,
+            64,
+            65
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.86527903000007",
+            "-76.08363223999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground",
+            "Therapeutic Cradle Swing Seats",
+            "Trail-Paved"
+          ],
+          "notes": null,
+          "title": "Middle Plantation / Bishop's Gate Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 73,
+          "address": "2073 Kempsville Road",
+          "amenities": [
+            4,
+            13,
+            26,
+            43,
+            44,
+            50,
+            52,
+            56,
+            58,
+            64,
+            65,
+            66,
+            68,
+            70
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJJ5dNjze8uokRGBPaTQNPEmQ",
+          "hours": "7:30 am - (Posted Closing Time)",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.776950070000055",
+            "-76.20019868999998"
+          ],
+          "isRental": true,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Charcoal Grills",
+            "Horseshoe Pit",
+            "Picnic Shelter",
+            "Playground",
+            "Restroom",
+            "Shared-Use Path",
+            "Soccer/Multi-Purpose Field",
+            "Softball/Baseball Field Lighted",
+            "Therapeutic Cradle Swing Seats",
+            "Trail-Paved",
+            "Trail-Soft",
+            "Vending Machines",
+            "Volleyball Area - Sand"
+          ],
+          "notes": null,
+          "title": "City View Park",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/city-parks/Pages/city-view-park.aspx",
+          "zip": "23464"
+        },
+        {
+          "ID": 142,
+          "address": "2401 Plantation Drive",
+          "amenities": [
+            4,
+            44,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJ2-IzAx3ruokRSapk5oIB748",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.85714364000006",
+            "-76.05301709999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Wolfsnare Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 43,
+          "address": "213 N. Oceana Blvd",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.840634790000024",
+            "-76.01366021999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Oceana Gardens Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 168,
+          "address": "2313 Litchfield Way",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.761467510000045",
+            "-76.04745003999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Litchfield Manor Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23453"
+        },
+        {
+          "ID": 34,
+          "address": "2415 Reagan Avenue",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.850156620000064",
+            "-76.05496335999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Deerwood Trace Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 186,
+          "address": "1848 Centennial Circle",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJC66rniW_uokR_rVWCZ3mcBA",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.77691121000004",
+            "-76.11228859999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Salem Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 91,
+          "address": "Baker Road",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": "EjFBbWh1cnN0IFBhcmssIEJha2VyIFJvYWQsIFZpcmdpbmlhIEJlYWNoLCBWQSwgVVNBIi4qLAoUChIJ-90pGSmUuokRhjOE10i7ZgkSFAoSCQuwXHDalbqJEQ16ueDYwXSi",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.857915380000065",
+            "-76.17045816999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Amhurst Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23455"
+        },
+        {
+          "ID": 59,
+          "address": "1833 Burwillow Drive",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/59/attachments/12"
+          ],
+          "googlePlacesId": "ChIJNUpVWlS-uokRHV6QSdC--P4",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.783803860000035",
+            "-76.13542385999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Bellamy Plantation East Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 176,
+          "address": "3740 Dam Neck Road",
+          "amenities": [
+            43,
+            44,
+            46,
+            50,
+            65
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "7:30 am - (Posted Closing Time)",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.77414070000003",
+            "-76.09408029999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground",
+            "Public Art",
+            "Restroom",
+            "Trail-Paved"
+          ],
+          "notes": null,
+          "title": "Princess Anne Commons Gateway Park",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/city-parks/Pages/princess-anne-park.aspx",
+          "zip": "23456"
+        },
+        {
+          "ID": 226,
+          "address": "333 Thalia Road",
+          "amenities": [
+            10
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.84408296000004",
+            "-76.12348436999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Canoe/Kayak Launch"
+          ],
+          "notes": null,
+          "title": "Thalia Creek Launch",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 38,
+          "address": "2420 Mirror Lake Drive",
+          "amenities": [
+            4,
+            42,
+            43,
+            44,
+            61
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJdVuNR7rBuokRjhZ_FaK-1n0",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.78197591000003",
+            "-76.04955140999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Pickleball Court",
+            "Picnic Shelter",
+            "Playground",
+            "Tennis Court"
+          ],
+          "notes": null,
+          "title": "Lake Placid Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23453"
+        },
+        {
+          "ID": 87,
+          "address": "1098 Taylor Road",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/87/attachments/35"
+          ],
+          "googlePlacesId": "ChIJh1QbiOC9uokRHdAAjkT7x3Q",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.80759001000007",
+            "-76.18128665999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Whitehurst Grove Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 53,
+          "address": "1225 Warwick Drive",
+          "amenities": [
+            4,
+            43,
+            44,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJvybRsQ7AuokR-SabaR1omf8",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.80094630000008",
+            "-76.07953565999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Scarborough Square Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23453"
+        },
+        {
+          "ID": 27,
+          "address": "10th Street",
+          "amenities": [
+            6,
+            44
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/27/attachments/1"
+          ],
+          "googlePlacesId": null,
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.838794000000064",
+            "-75.97144799999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Beach Access",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "10th Street Playground on the Beach",
+          "type": "Park",
+          "url": null,
+          "zip": "23451"
+        },
+        {
+          "ID": 95,
+          "address": "5281 Challedon Drive",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.82702836000004",
+            "-76.17026030999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Carolanne Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23462"
+        },
+        {
+          "ID": 25,
+          "address": "5071 Holly Farms Drive",
+          "amenities": [
+            4,
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.85900698000006",
+            "-76.15170150999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Witchduck Landing Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23462"
+        },
+        {
+          "ID": 22,
+          "address": "Alfriends Trail",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.86777130000007",
+            "-76.12432339999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Pembroke Meadows Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23455"
+        },
+        {
+          "ID": 14,
+          "address": "5390 Lynbrook Landing",
+          "amenities": [
+            43,
+            44,
+            56
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJ42JwIMmVuokR7Wazx1ehuzg",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.859886870000025",
+            "-76.15945291999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground",
+            "Soccer/Multi-Purpose Field"
+          ],
+          "notes": null,
+          "title": "Lynbrook Landing Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23462"
+        },
+        {
+          "ID": 44,
+          "address": "229 First Colonial Road",
+          "amenities": [
+            4,
+            44,
+            58
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": true,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.841572840000026",
+            "-76.02277023999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Playground",
+            "Softball/Baseball Field Lighted"
+          ],
+          "notes": null,
+          "title": "Oceana (Athletic) Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 21,
+          "address": "5508 Shire Reach",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": true,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.88114228000006",
+            "-76.17644278999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Raleigh Square Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23455"
+        },
+        {
+          "ID": 222,
+          "address": "100 36th Street",
+          "amenities": [
+            3,
+            6,
+            20,
+            21,
+            30,
+            32,
+            33,
+            41,
+            51,
+            55,
+            60
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": null,
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.86431600000003",
+            "-75.97849999999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Balance Beam",
+            "Beach Access",
+            "Fitness Climber/Ropes",
+            "Fitness Stations",
+            "Level Ring Climber",
+            "Low Bar",
+            "Low Parallel Bars",
+            "Parallel Bars",
+            "Rope Climber",
+            "Slackline Posts",
+            "Swing-a-long Rings"
+          ],
+          "notes": null,
+          "title": "Hillier Ignite Fitness Park",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/city-parks/Pages/hillier-ignite.aspx",
+          "zip": "23451"
+        },
+        {
+          "ID": 85,
+          "address": "4052 Rainbow Drive",
+          "amenities": [
+            4,
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJbWElkae_uokRCAhRgjKL7YA",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.78407652000004",
+            "-76.12027538999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Sunstream Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 81,
+          "address": "2300 Lynnhaven Pkwy",
+          "amenities": [],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/81/attachments/30"
+          ],
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.78690400000005",
+            "-76.14387499999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Rosemont Forest East Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 105,
+          "address": "832 Lobaugh Drive",
+          "amenities": [
+            43,
+            44,
+            64
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/105/attachments/24"
+          ],
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.81522576000003",
+            "-76.16287641999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": "Come visit the beautiful Kempsville Park located near the 4th Precint Building in Virginia Beach. Kempsville offers amenities such as built-in cornhole boards, covered picnic shelters and a police-themed playground for the little ones. Also enjoy the Kem",
+          "title": "Kempsville Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23462"
+        },
+        {
+          "ID": 182,
+          "address": "2080 Centennial Circle",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.77383616000003",
+            "-76.11655034999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Salem Lakes Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 24,
+          "address": "5525 Shire Reach",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": true,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.87993760000006",
+            "-76.17671726999998"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Wesleyan Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23455"
+        },
+        {
+          "ID": 40,
+          "address": "520 Old Great Neck Road",
+          "amenities": [
+            4,
+            57
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJS2FYbvvquokRTP80_2b-joo",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": true,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.84894200000008",
+            "-76.04900499999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Softball/Baseball Field"
+          ],
+          "notes": null,
+          "title": "London Bridge Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 169,
+          "address": "1916 Upton Drive",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": "ChIJEW4CgIbBuokRrzfyIHPx1k8",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.77172421000006",
+            "-75.99795200999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Ocean Lakes North Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23454"
+        },
+        {
+          "ID": 228,
+          "address": "4500 First Ct Rd",
+          "amenities": [
+            0,
+            1,
+            12,
+            17,
+            24,
+            25,
+            27,
+            28,
+            31,
+            34,
+            49,
+            69,
+            71,
+            72
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJl1Zzk4aUuokR6WYLp9pA0Vo",
+          "hours": "Monday-Friday: 6am-8pm; Saturday: 9am-5pm; Sunday: 11am-5pm",
+          "isAdopted": true,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.89910938000003",
+            "-76.12651587999994"
+          ],
+          "isRental": true,
+          "mappedAmenities": [
+            "ADA Pool Lift",
+            "Adult Billiards",
+            "Cardiovascular Equipment",
+            "Family Changing Rooms",
+            "Group Fitness Room",
+            "Gymnasiums",
+            "Indoor Play Structure",
+            "Indoor Swimming Pool",
+            "Locker Room/Showers",
+            "Meeting Rooms",
+            "Racquetball Courts",
+            "Vending Machines",
+            "Weight Room",
+            "Youth Game Room"
+          ],
+          "notes": "Bayside Community Recreation Center is an 83,931 square foot multi-faceted recreational space adjacent to Bayville Farms Park. To participate in most activities you will need a valid membership card or day pass.",
+          "title": "Bayside Recreation Center",
+          "type": "RecCen",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/recreation-centers/Pages/bayside.aspx",
+          "zip": "23455"
+        },
+        {
+          "ID": 45,
+          "address": "2520 Cypress Ave",
+          "amenities": [
+            44,
+            61
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJ1_tXmkXpuokR7KBCbxh16cY",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.852379900000074",
+            "-75.98573099999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Playground",
+            "Tennis Court"
+          ],
+          "notes": null,
+          "title": "Old Beach Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23451"
+        },
+        {
+          "ID": 129,
+          "address": "3797 Kings Grant Road",
+          "amenities": [
+            4,
+            44,
+            61,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJgXkTqCCVuokR_Q_QuRGaGTs",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.86040642000006",
+            "-76.10397957999999"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Playground",
+            "Tennis Court",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Kings Grant Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 68,
+          "address": "1960 John Brown Lane",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.77427264000005",
+            "-76.19073469999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Centerville Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 75,
+          "address": "2464 Savannah Trail",
+          "amenities": [
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.761401610000064",
+            "-76.13579284999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Hillcrest Farms Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 54,
+          "address": "1198 Old Club House Road",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.79975205000005",
+            "-76.07751986999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Scarborough Square East Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23453"
+        },
+        {
+          "ID": 133,
+          "address": "1277 Little Neck Road",
+          "amenities": [
+            44,
+            61,
+            64,
+            66
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.87694587000004",
+            "-76.09879308999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Playground",
+            "Tennis Court",
+            "Therapeutic Cradle Swing Seats",
+            "Trail-Soft"
+          ],
+          "notes": null,
+          "title": "Little Neck Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23452"
+        },
+        {
+          "ID": 32,
+          "address": "1324 Old Clubhouse Road",
+          "amenities": [
+            4,
+            26,
+            43,
+            44
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.79693018000006",
+            "-76.07207386999994"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Horseshoe Pit",
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Cardinal Estates Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23453"
+        },
+        {
+          "ID": 65,
+          "address": "1717 Ashton Drive",
+          "amenities": [
+            43,
+            44,
+            57
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/65/attachments/19"
+          ],
+          "googlePlacesId": "ChIJkRwh5Cm8uokRP_4dP9UApjE",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": true,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.779106170000034",
+            "-76.17894365999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground",
+            "Softball/Baseball Field"
+          ],
+          "notes": null,
+          "title": "Brigadoon Woods Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 80,
+          "address": "4360 Pleasant Valley Road",
+          "amenities": [
+            4,
+            43,
+            44
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/80/attachments/31"
+          ],
+          "googlePlacesId": "ChIJmcRskFy-uokRSeeIHEFUAB0",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.79081277000006",
+            "-76.14987406999995"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Basketball Court",
+            "Picnic Shelter",
+            "Playground"
+          ],
+          "notes": null,
+          "title": "Rosemont Forest Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23464"
+        },
+        {
+          "ID": 78,
+          "address": "952 Reon Drive",
+          "amenities": [
+            43,
+            44,
+            50,
+            56,
+            57,
+            58,
+            65
+          ],
+          "attachments": null,
+          "googlePlacesId": "ChIJqxu8vRG-uokR_9p9Q7L9rtk",
+          "hours": "7:30 am - (Posted Closing Time)",
+          "isAdopted": true,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.81192401000004",
+            "-76.19745418999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground",
+            "Restroom",
+            "Soccer/Multi-Purpose Field",
+            "Softball/Baseball Field",
+            "Softball/Baseball Field Lighted",
+            "Trail-Paved"
+          ],
+          "notes": null,
+          "title": "Providence Park",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/city-parks/Pages/providence-park.aspx",
+          "zip": "23464"
+        },
+        {
+          "ID": 172,
+          "address": "3805 Middleham Drive",
+          "amenities": [
+            43,
+            44,
+            64
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.76612748000008",
+            "-76.11700444999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Newcastle Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23456"
+        },
+        {
+          "ID": 17,
+          "address": "3576 Piedmont Circle",
+          "amenities": [
+            6,
+            8,
+            9,
+            10,
+            18,
+            50
+          ],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Open 24/7",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.906089800000075",
+            "-76.09459698999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Beach Access",
+            "Boat Launch",
+            "Boat Trailer Parking",
+            "Canoe/Kayak Launch",
+            "Fishing Area",
+            "Restroom"
+          ],
+          "notes": "The Lesner Bridge replacement project has impacted some areas of the facility. Car parking is limited and there is no direct access to the beach. The boat ramp, trailer parking, and canoe/kayak launch area remain open.",
+          "title": "Lynnhaven Boat & Beach Facility",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/beach-boat-facilities/Pages/lynnhaven-boat-ramp-beach-facility.aspx",
+          "zip": "23455"
+        },
+        {
+          "ID": 146,
+          "address": "540 Princess Anne Road",
+          "amenities": [
+            43,
+            44,
+            57,
+            58,
+            61,
+            64
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/146/attachments/21"
+          ],
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": true,
+          "isAdoptionEligable": true,
+          "latlng": [
+            "36.59729521000003",
+            "-76.02132475999997"
+          ],
+          "isRental": false,
+          "mappedAmenities": [
+            "Picnic Shelter",
+            "Playground",
+            "Softball/Baseball Field",
+            "Softball/Baseball Field Lighted",
+            "Tennis Court",
+            "Therapeutic Cradle Swing Seats"
+          ],
+          "notes": null,
+          "title": "Creeds (Wayside) Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23457"
+        },
+        {
+          "ID": 180,
+          "address": "1704 Prodan Lane",
+          "amenities": [],
+          "attachments": null,
+          "googlePlacesId": null,
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.765379850000045",
+            "-76.04889606999996"
+          ],
+          "isRental": false,
+          "mappedAmenities": null,
+          "notes": null,
+          "title": "Rolling Woods Park",
+          "type": "Park",
+          "url": null,
+          "zip": "23453"
+        },
+        {
+          "ID": 4,
+          "address": "4132 First Court Road",
+          "amenities": [
+            5,
+            13,
+            15,
+            16,
+            26,
+            42,
+            43,
+            44,
+            50,
+            52,
+            53,
+            58,
+            63,
+            64,
+            65,
+            66,
+            67,
+            70
+          ],
+          "attachments": [
+            "https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/ParkFinder1/FeatureServer/0/4/attachments/10"
+          ],
+          "googlePlacesId": "ChIJRZfDLoOUuokRzb_vlRXzmbo",
+          "hours": "Sunrise - Sunset",
+          "isAdopted": false,
+          "isAdoptionEligable": false,
+          "latlng": [
+            "36.90096031000007",
+            "-76.12149663999998"
+          ],
+          "isRental": true,
+          "mappedAmenities": [
+            "Basketball Court Lighted",
+            "Charcoal Grills",
+            "Disc Golf Course",
+            "Dog Park",
+            "Horseshoe Pit",
+            "Pickleball Court",
+            "Picnic Shelter",
+            "Playground",
+            "Restroom",
+            "Shared-Use Path",
+            "Shuffleboard Court",
+            "Softball/Baseball Field Lighted",
+            "Tennis Court - Lighted",
+            "Therapeutic Cradle Swing Seats",
+            "Trail-Paved",
+            "Trail-Soft",
+            "TRX Suspension Frame",
+            "Volleyball Area - Sand"
+          ],
+          "notes": null,
+          "title": "Bayville Farms Park",
+          "type": "Park",
+          "url": "https://www.vbgov.com/government/departments/parks-recreation/parks-trails/city-parks/Pages/bayville-farms-park.aspx",
+          "zip": "23455"
+        }
+      ]
+    }
+  }
+}
